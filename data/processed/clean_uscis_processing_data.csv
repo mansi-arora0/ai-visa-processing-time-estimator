@@ -1,0 +1,254 @@
+form_number,description,forms_received,approvals,denials,pending,pending_over_6_months,source_file,processing_time_days
+0,8,106319.0,59365.0,4402.0,2163012.0,1665443.0,appropriation_requirement_april_2024.csv,504.0
+1,9,12243.0,7697.0,459.0,152776.0,106103.0,appropriation_requirement_april_2024.csv,264.0
+2,2,7749.0,2220.0,130.0,79725.0,45131.0,appropriation_requirement_april_2024.csv,576.0
+2,3,12832.0,22179.0,235.0,157373.0,79150.0,appropriation_requirement_april_2024.csv,138.0
+2,4,7785.0,10273.0,900.0,205047.0,144421.0,appropriation_requirement_april_2024.csv,342.0
+2,5,59654.0,36890.0,4285.0,547637.0,325862.0,appropriation_requirement_april_2024.csv,378.0
+2,6,2798.0,2555.0,319.0,57828.0,41252.0,appropriation_requirement_april_2024.csv,552.0
+2,7,3191.0,965.0,108.0,34352.0,19155.0,appropriation_requirement_april_2024.csv,552.0
+3,10,7941.0,10844.0,482.0,245590.0,189490.0,appropriation_requirement_april_2024.csv,759.0
+4,0,423668.0,399005.0,41102.0,1383721.0,558193.0,appropriation_requirement_april_2024.csv,99.0
+5,1,79844.0,72534.0,7003.0,466275.0,82116.0,appropriation_requirement_april_2024.csv,180.0
+0,8,86126.0,74051.0,12397.0,2414723.0,1899108.0,appropriation_requirement_april_2025 (1).csv,510.0
+1,9,10370.0,7039.0,642.0,210086.0,161627.0,appropriation_requirement_april_2025 (1).csv,267.0
+2,2,6535.0,1095.0,93.0,77345.0,41419.0,appropriation_requirement_april_2025 (1).csv,447.0
+2,3,27173.0,5662.0,282.0,246689.0,123202.0,appropriation_requirement_april_2025 (1).csv,255.0
+2,4,6973.0,7906.0,1453.0,182819.0,138777.0,appropriation_requirement_april_2025 (1).csv,357.0
+2,5,45686.0,30910.0,6556.0,601381.0,358426.0,appropriation_requirement_april_2025 (1).csv,360.0
+2,6,1593.0,2078.0,318.0,55810.0,46556.0,appropriation_requirement_april_2025 (1).csv,627.0
+2,7,8418.0,1054.0,65.0,55384.0,19463.0,appropriation_requirement_april_2025 (1).csv,297.0
+3,10,14184.0,6486.0,380.0,244076.0,164962.0,appropriation_requirement_april_2025 (1).csv,735.0
+4,0,492135.0,357844.0,24130.0,1870157.0,563647.0,appropriation_requirement_april_2025 (1).csv,87.0
+5,1,93866.0,88488.0,8604.0,535141.0,118459.0,appropriation_requirement_april_2025 (1).csv,192.0
+0,8,78894.0,66932.0,9109.0,2192899.0,1727711.0,appropriation_requirement_august 2024 (1).csv,477.0
+1,9,12923.0,7366.0,550.0,175938.0,122299.0,appropriation_requirement_august 2024 (1).csv,339.0
+2,2,4838.0,5901.0,178.0,87326.0,53067.0,appropriation_requirement_august 2024 (1).csv,435.0
+2,3,10805.0,10422.0,272.0,156122.0,94584.0,appropriation_requirement_august 2024 (1).csv,213.0
+2,4,11152.0,14043.0,1766.0,178644.0,141111.0,appropriation_requirement_august 2024 (1).csv,372.0
+2,5,43057.0,44044.0,4989.0,517614.0,316487.0,appropriation_requirement_august 2024 (1).csv,324.0
+2,6,2062.0,1859.0,218.0,58216.0,44098.0,appropriation_requirement_august 2024 (1).csv,612.0
+2,7,4757.0,2621.0,198.0,46283.0,23642.0,appropriation_requirement_august 2024 (1).csv,405.0
+3,10,4783.0,11729.0,502.0,221523.0,185036.0,appropriation_requirement_august 2024 (1).csv,708.0
+4,0,412713.0,399214.0,36431.0,1268169.0,545784.0,appropriation_requirement_august 2024 (1).csv,90.0
+5,1,95254.0,64790.0,6435.0,507844.0,79736.0,appropriation_requirement_august 2024 (1).csv,186.0
+0,8,71930.0,82886.0,10550.0,2389683.0,1952870.0,appropriation_requirement_august 2025 (1).csv,444.0
+1,9,13409.0,5758.0,664.0,228989.0,183318.0,appropriation_requirement_august 2025 (1).csv,279.0
+2,2,5152.0,1882.0,106.0,95630.0,61691.0,appropriation_requirement_august 2025 (1).csv,447.0
+2,3,13748.0,2784.0,190.0,312913.0,191660.0,appropriation_requirement_august 2025 (1).csv,351.0
+2,4,6937.0,11827.0,1044.0,170429.0,131788.0,appropriation_requirement_august 2025 (1).csv,285.0
+2,5,38614.0,48366.0,6446.0,560751.0,366856.0,appropriation_requirement_august 2025 (1).csv,264.0
+2,6,1615.0,3642.0,372.0,52364.0,45318.0,appropriation_requirement_august 2025 (1).csv,594.0
+2,7,7975.0,2333.0,80.0,83594.0,36298.0,appropriation_requirement_august 2025 (1).csv,255.0
+3,10,11815.0,9466.0,222.0,260980.0,184602.0,appropriation_requirement_august 2025 (1).csv,612.0
+4,0,222122.0,279876.0,24111.0,1775993.0,803327.0,appropriation_requirement_august 2025 (1).csv,108.0
+5,1,76056.0,71866.0,7057.0,528842.0,113954.0,appropriation_requirement_august 2025 (1).csv,192.0
+0,8,77435.0,59070.0,7794.0,2042955.0,1600707.0,appropriation_requirement_december_2023.csv,657.0
+1,9,11646.0,6893.0,352.0,140490.0,91131.0,appropriation_requirement_december_2023.csv,216.0
+2,2,4997.0,3640.0,220.0,63706.0,34903.0,appropriation_requirement_december_2023.csv,561.0
+2,3,28201.0,9514.0,424.0,164215.0,55219.0,appropriation_requirement_december_2023.csv,162.0
+2,4,11701.0,5225.0,742.0,204631.0,152503.0,appropriation_requirement_december_2023.csv,390.0
+2,5,37190.0,26702.0,3245.0,527964.0,333161.0,appropriation_requirement_december_2023.csv,369.0
+2,6,3171.0,2280.0,270.0,58017.0,42464.0,appropriation_requirement_december_2023.csv,498.00000000000006
+2,7,2441.0,1633.0,171.0,28320.0,15259.0,appropriation_requirement_december_2023.csv,546.0
+3,10,9407.0,6374.0,475.0,249318.0,188579.0,appropriation_requirement_december_2023.csv,750.0
+4,0,361654.0,361510.0,29713.0,1553098.0,644303.0,appropriation_requirement_december_2023.csv,129.0
+5,1,64383.0,55063.0,5773.0,416964.0,96105.0,appropriation_requirement_december_2023.csv,198.0
+0,8,89686.0,45019.0,7232.0,2313876.0,1853955.0,appropriation_requirement_december_2024 (1).csv,504.0
+1,9,12299.0,5708.0,630.0,199910.0,142558.0,appropriation_requirement_december_2024 (1).csv,339.0
+2,2,7082.0,8310.0,316.0,77686.0,44355.0,appropriation_requirement_december_2024 (1).csv,345.0
+2,3,20685.0,8663.0,309.0,181390.0,104912.0,appropriation_requirement_december_2024 (1).csv,264.0
+2,4,10847.0,6453.0,1000.0,189370.0,137103.0,appropriation_requirement_december_2024 (1).csv,345.0
+2,5,41686.0,27556.0,4015.0,549946.0,331244.0,appropriation_requirement_december_2024 (1).csv,354.0
+2,6,1696.0,1175.0,204.0,58039.0,48027.0,appropriation_requirement_december_2024 (1).csv,663.0
+2,7,5957.0,4799.0,161.0,45907.0,19049.0,appropriation_requirement_december_2024 (1).csv,273.0
+3,10,12448.0,7449.0,334.0,217205.0,175256.0,appropriation_requirement_december_2024 (1).csv,678.0
+4,0,415609.0,401008.0,26989.0,1190183.0,507833.0,appropriation_requirement_december_2024 (1).csv,90.0
+5,1,74910.0,66998.0,5815.0,535601.0,119145.0,appropriation_requirement_december_2024 (1).csv,183.0
+0,8,77084.0,54463.0,7511.0,2060390.0,1623648.0,appropriation_requirement_february_2024.csv,675.0
+1,9,11009.0,7479.0,451.0,145256.0,98866.0,appropriation_requirement_february_2024.csv,245.99999999999997
+2,2,5293.0,2002.0,189.0,69063.0,39450.0,appropriation_requirement_february_2024.csv,615.0
+2,3,19704.0,20257.0,227.0,171899.0,67208.0,appropriation_requirement_february_2024.csv,135.0
+2,4,13681.0,10428.0,1056.0,206916.0,146219.0,appropriation_requirement_february_2024.csv,324.0
+2,5,36577.0,30621.0,4162.0,519113.0,329640.0,appropriation_requirement_february_2024.csv,396.0
+2,6,3551.0,2317.0,313.0,58240.0,41900.0,appropriation_requirement_february_2024.csv,582.0
+2,7,2577.0,1012.0,164.0,30474.0,16436.0,appropriation_requirement_february_2024.csv,612.0
+3,10,10244.0,9465.0,489.0,250257.0,191055.0,appropriation_requirement_february_2024.csv,801.0
+4,0,407570.0,403851.0,49652.0,1395742.0,610425.0,appropriation_requirement_february_2024.csv,105.0
+5,1,81332.0,68971.0,6663.0,426255.0,90043.0,appropriation_requirement_february_2024.csv,189.0
+0,8,84355.0,51220.0,8434.0,2384024.0,1889486.0,appropriation_requirement_february_2025 (1).csv,552.0
+1,9,9035.0,6659.0,533.0,205998.0,150914.0,appropriation_requirement_february_2025 (1).csv,321.0
+2,2,6111.0,9012.0,253.0,73067.0,38546.0,appropriation_requirement_february_2025 (1).csv,348.0
+2,3,24385.0,10984.0,298.0,207564.0,109059.0,appropriation_requirement_february_2025 (1).csv,245.99999999999997
+2,4,8484.0,8892.0,1519.0,186955.0,133623.0,appropriation_requirement_february_2025 (1).csv,339.0
+2,5,43347.0,25479.0,5159.0,573826.0,338195.0,appropriation_requirement_february_2025 (1).csv,414.0
+2,6,1686.0,2037.0,269.0,57676.0,47633.0,appropriation_requirement_february_2025 (1).csv,576.0
+2,7,6617.0,6846.0,187.0,44964.0,16780.0,appropriation_requirement_february_2025 (1).csv,252.0
+3,10,15152.0,9705.0,353.0,226832.0,165557.0,appropriation_requirement_february_2025 (1).csv,669.0
+4,0,496399.0,258214.0,27519.0,1420295.0,488237.0,appropriation_requirement_february_2025 (1).csv,122.99999999999999
+5,1,79442.0,76002.0,7847.0,531595.0,129981.0,appropriation_requirement_february_2025 (1).csv,192.0
+0,8,74025.0,66643.0,8397.0,2041211.0,1607676.0,appropriation_requirement_january_2024.csv,627.0
+1,9,10418.0,8422.0,553.0,142134.0,94675.0,appropriation_requirement_january_2024.csv,240.0
+2,2,5229.0,2751.0,212.0,66118.0,36722.0,appropriation_requirement_january_2024.csv,618.0
+2,3,26898.0,14660.0,308.0,175083.0,61543.0,appropriation_requirement_january_2024.csv,162.0
+2,4,11351.0,10645.0,971.0,204629.0,151213.0,appropriation_requirement_january_2024.csv,321.0
+2,5,34103.0,32159.0,4508.0,516130.0,327850.0,appropriation_requirement_january_2024.csv,378.0
+2,6,3063.0,2359.0,342.0,58199.0,42830.0,appropriation_requirement_january_2024.csv,537.0
+2,7,2259.0,1140.0,193.0,29305.0,15762.0,appropriation_requirement_january_2024.csv,570.0
+3,10,10035.0,8381.0,490.0,249877.0,189971.0,appropriation_requirement_january_2024.csv,795.0
+4,0,400030.0,382299.0,41406.0,1441943.0,619695.0,appropriation_requirement_january_2024.csv,111.0
+5,1,78895.0,67730.0,6854.0,422033.0,93179.0,appropriation_requirement_january_2024.csv,198.0
+0,8,94739.0,49395.0,8332.0,2355271.0,1872469.0,appropriation_requirement_january_2025 (1).csv,522.0
+1,9,10725.0,6018.0,626.0,204129.0,146727.0,appropriation_requirement_january_2025 (1).csv,363.0
+2,2,7105.0,8509.0,274.0,76107.0,41168.0,appropriation_requirement_january_2025 (1).csv,357.0
+2,3,22880.0,10034.0,275.0,194437.0,106558.0,appropriation_requirement_january_2025 (1).csv,249.00000000000003
+2,4,9334.0,8733.0,1291.0,201863.0,146952.0,appropriation_requirement_january_2025 (1).csv,351.0
+2,5,46129.0,30699.0,4950.0,560941.0,331678.0,appropriation_requirement_january_2025 (1).csv,366.0
+2,6,1687.0,1538.0,294.0,45302.0,37447.0,appropriation_requirement_january_2025 (1).csv,654.0
+2,7,5289.0,5594.0,195.0,45371.0,17968.0,appropriation_requirement_january_2025 (1).csv,273.0
+3,10,13768.0,8052.0,373.0,222491.0,170974.0,appropriation_requirement_january_2025 (1).csv,684.0
+4,0,516330.0,443947.0,51664.0,1219526.0,499266.0,appropriation_requirement_january_2025 (1).csv,108.0
+5,1,87174.0,74957.0,6914.0,540820.0,127193.0,appropriation_requirement_january_2025 (1).csv,192.0
+0,8,75636.0,64230.0,9222.0,2189622.0,1714949.0,appropriation_requirement_july_2024 (1).csv,450.0
+1,9,12585.0,6904.0,584.0,170959.0,118125.0,appropriation_requirement_july_2024 (1).csv,336.0
+2,2,5770.0,3342.0,147.0,88614.0,52826.0,appropriation_requirement_july_2024 (1).csv,491.99999999999994
+2,3,12590.0,6920.0,1692.0,156790.0,90723.0,appropriation_requirement_july_2024 (1).csv,213.0
+2,4,9514.0,16231.0,1460.0,183441.0,139356.0,appropriation_requirement_july_2024 (1).csv,336.0
+2,5,39280.0,40776.0,4729.0,523124.0,319057.0,appropriation_requirement_july_2024 (1).csv,339.0
+2,6,2105.0,1950.0,289.0,58157.0,42696.0,appropriation_requirement_july_2024 (1).csv,582.0
+2,7,4285.0,1013.0,92.0,44405.0,23505.0,appropriation_requirement_july_2024 (1).csv,477.0
+3,10,4414.0,11243.0,400.0,228941.0,185654.0,appropriation_requirement_july_2024 (1).csv,714.0
+4,0,416776.0,395766.0,42350.0,1292801.0,538601.0,appropriation_requirement_july_2024 (1).csv,111.0
+5,1,92498.0,67437.0,6305.0,483611.0,75545.0,appropriation_requirement_july_2024 (1).csv,177.0
+0,8,81780.0,84470.0,12169.0,2404876.0,1942951.0,appropriation_requirement_july_2025 (1).csv,429.0
+1,9,10914.0,5784.0,786.0,221992.0,177517.0,appropriation_requirement_july_2025 (1).csv,300.0
+2,2,6598.0,1330.0,91.0,92479.0,56729.0,appropriation_requirement_july_2025 (1).csv,489.0
+2,3,19354.0,2265.0,207.0,302775.0,167277.0,appropriation_requirement_july_2025 (1).csv,348.0
+2,4,11991.0,12520.0,954.0,176266.0,134649.0,appropriation_requirement_july_2025 (1).csv,288.0
+2,5,48064.0,52181.0,6556.0,576735.0,365642.0,appropriation_requirement_july_2025 (1).csv,264.0
+2,6,1923.0,1971.0,328.0,54757.0,46804.0,appropriation_requirement_july_2025 (1).csv,666.0
+2,7,9261.0,987.0,64.0,78117.0,30489.0,appropriation_requirement_july_2025 (1).csv,381.0
+3,10,13393.0,10413.0,222.0,258982.0,177959.0,appropriation_requirement_july_2025 (1).csv,576.0
+4,0,374325.0,294232.0,30710.0,1859361.0,672052.0,appropriation_requirement_july_2025 (1).csv,75.0
+5,1,80119.0,72334.0,7743.0,532052.0,110789.0,appropriation_requirement_july_2025 (1).csv,192.0
+0,8,68904.0,58269.0,8774.0,2176394.0,1701143.0,appropriation_requirement_june_2024 (1).csv,414.0
+1,9,13089.0,5699.0,433.0,165754.0,115315.0,appropriation_requirement_june_2024 (1).csv,330.0
+2,2,5567.0,2185.0,110.0,86335.0,51811.0,appropriation_requirement_june_2024 (1).csv,516.0
+2,3,13397.0,10731.0,1322.0,152360.0,87976.0,appropriation_requirement_june_2024 (1).csv,180.0
+2,4,6667.0,12307.0,1053.0,191795.0,142268.0,appropriation_requirement_june_2024 (1).csv,351.0
+2,5,33171.0,38896.0,4046.0,528841.0,326294.0,appropriation_requirement_june_2024 (1).csv,327.0
+2,6,2600.0,2151.0,252.0,58327.0,42441.0,appropriation_requirement_june_2024 (1).csv,522.0
+2,7,3374.0,477.0,98.0,41236.0,22500.0,appropriation_requirement_june_2024 (1).csv,633.0
+3,10,4787.0,9908.0,397.0,236111.0,187621.0,appropriation_requirement_june_2024 (1).csv,726.0
+4,0,350623.0,333301.0,37557.0,1313855.0,556542.0,appropriation_requirement_june_2024 (1).csv,90.0
+5,1,74586.0,69705.0,5664.0,465136.0,76207.0,appropriation_requirement_june_2024 (1).csv,168.0
+0,8,77112.0,77411.0,9414.0,2411946.0,1928316.0,appropriation_requirement_june_2025 (1).csv,417.0
+1,9,8643.0,4718.0,773.0,217571.0,173348.0,appropriation_requirement_june_2025 (1).csv,294.0
+2,2,5719.0,952.0,87.0,87287.0,51589.0,appropriation_requirement_june_2025 (1).csv,468.0
+2,3,21510.0,1647.0,277.0,286309.0,148186.0,appropriation_requirement_june_2025 (1).csv,348.0
+2,4,9383.0,11199.0,968.0,177711.0,138329.0,appropriation_requirement_june_2025 (1).csv,303.0
+2,5,41900.0,47713.0,5595.0,586762.0,365530.0,appropriation_requirement_june_2025 (1).csv,267.0
+2,6,1734.0,1667.0,291.0,55038.0,46623.0,appropriation_requirement_june_2025 (1).csv,672.0
+2,7,7584.0,613.0,98.0,69887.0,26314.0,appropriation_requirement_june_2025 (1).csv,363.0
+3,10,12795.0,7299.0,235.0,256168.0,173881.0,appropriation_requirement_june_2025 (1).csv,633.0
+4,0,358919.0,275035.0,24585.0,1813690.0,541870.0,appropriation_requirement_june_2025 (1).csv,75.0
+5,1,80259.0,70704.0,7105.0,532310.0,112551.0,appropriation_requirement_june_2025 (1).csv,195.0
+0,8,121485.0,56064.0,4491.0,2121601.0,1647909.0,appropriation_requirement_march_2024.csv,506.99999999999994
+1,9,11557.0,7938.0,463.0,148538.0,102539.0,appropriation_requirement_march_2024.csv,240.0
+2,2,7457.0,2024.0,198.0,74314.0,42485.0,appropriation_requirement_march_2024.csv,639.0
+2,3,18544.0,19759.0,196.0,168586.0,75597.0,appropriation_requirement_march_2024.csv,126.0
+2,4,12173.0,9941.0,1140.0,207827.0,141778.0,appropriation_requirement_march_2024.csv,348.0
+2,5,47194.0,34488.0,4006.0,528587.0,329529.0,appropriation_requirement_march_2024.csv,387.0
+2,6,2988.0,2660.0,336.0,58330.0,41313.0,appropriation_requirement_march_2024.csv,522.0
+2,7,2737.0,816.0,196.0,32236.0,18000.0,appropriation_requirement_march_2024.csv,642.0
+3,10,10129.0,11186.0,509.0,248868.0,191033.0,appropriation_requirement_march_2024.csv,771.0
+4,0,483391.0,430754.0,39313.0,1406846.0,581623.0,appropriation_requirement_march_2024.csv,114.0
+5,1,123151.0,76755.0,6475.0,465561.0,86296.0,appropriation_requirement_march_2024.csv,183.0
+0,8,91037.0,63556.0,6249.0,2408119.0,1892511.0,appropriation_requirement_march_2025 (1).csv,567.0
+1,9,9641.0,7722.0,580.0,207378.0,155464.0,appropriation_requirement_march_2025 (1).csv,306.0
+2,2,6126.0,6922.0,208.0,72181.0,37477.0,appropriation_requirement_march_2025 (1).csv,345.0
+2,3,26187.0,8065.0,302.0,225208.0,114521.0,appropriation_requirement_march_2025 (1).csv,249.00000000000003
+2,4,6505.0,7336.0,1398.0,185050.0,132362.0,appropriation_requirement_march_2025 (1).csv,360.0
+2,5,42729.0,21233.0,4868.0,592146.0,346432.0,appropriation_requirement_march_2025 (1).csv,459.0
+2,6,1669.0,2126.0,374.0,56892.0,46880.0,appropriation_requirement_march_2025 (1).csv,606.0
+2,7,7844.0,4682.0,89.0,48156.0,17081.0,appropriation_requirement_march_2025 (1).csv,240.0
+3,10,16272.0,6603.0,374.0,236840.0,164568.0,appropriation_requirement_march_2025 (1).csv,657.0
+4,0,528151.0,297357.0,22488.0,2100110.0,930417.0,appropriation_requirement_march_2025 (1).csv,105.0
+5,1,96982.0,83989.0,8034.0,538903.0,128946.0,appropriation_requirement_march_2025 (1).csv,192.0
+0,8,144708.0,60642.0,18457.0,2168804.0,1680112.0,appropriation_requirement_may_2024 (1).csv,429.0
+1,9,13499.0,7023.0,531.0,158802.0,111290.0,appropriation_requirement_may_2024 (1).csv,297.0
+2,2,5518.0,2018.0,163.0,83081.0,48248.0,appropriation_requirement_may_2024 (1).csv,573.0
+2,3,11946.0,17127.0,232.0,150661.0,82043.0,appropriation_requirement_may_2024 (1).csv,159.0
+2,4,7170.0,13020.0,999.0,198342.0,144551.0,appropriation_requirement_may_2024 (1).csv,321.0
+2,5,32193.0,38424.0,4193.0,537936.0,325014.0,appropriation_requirement_may_2024 (1).csv,348.0
+2,6,3055.0,2621.0,303.0,58030.0,41544.0,appropriation_requirement_may_2024 (1).csv,513.0
+2,7,5074.0,851.0,152.0,38429.0,20464.0,appropriation_requirement_may_2024 (1).csv,537.0
+3,10,7440.0,11078.0,477.0,241631.0,188261.0,appropriation_requirement_may_2024 (1).csv,747.0
+4,0,404026.0,378840.0,62529.0,1335008.0,544937.0,appropriation_requirement_may_2024 (1).csv,99.0
+5,1,83506.0,76411.0,6906.0,466291.0,77968.0,appropriation_requirement_may_2024 (1).csv,168.0
+0,8,83758.0,78368.0,12951.0,2416102.0,1916571.0,appropriation_requirement_may_2025 (1).csv,462.0
+1,9,10319.0,5410.0,671.0,214343.0,168362.0,appropriation_requirement_may_2025 (1).csv,258.0
+2,2,6236.0,899.0,113.0,82549.0,46589.0,appropriation_requirement_may_2025 (1).csv,504.0
+2,3,23881.0,3376.0,226.0,267090.0,136077.0,appropriation_requirement_may_2025 (1).csv,285.0
+2,4,6563.0,8040.0,1091.0,180445.0,141810.0,appropriation_requirement_may_2025 (1).csv,333.0
+2,5,45424.0,44518.0,5985.0,597695.0,367356.0,appropriation_requirement_may_2025 (1).csv,297.0
+2,6,1540.0,1877.0,262.0,55222.0,46639.0,appropriation_requirement_may_2025 (1).csv,666.0
+2,7,8382.0,699.0,107.0,62934.0,22554.0,appropriation_requirement_may_2025 (1).csv,375.0
+3,10,12597.0,5237.0,259.0,251159.0,170202.0,appropriation_requirement_may_2025 (1).csv,663.0
+4,0,395958.0,311684.0,78588.0,1753599.0,506084.0,appropriation_requirement_may_2025 (1).csv,78.0
+5,1,84238.0,82102.0,7488.0,530238.0,118829.0,appropriation_requirement_may_2025 (1).csv,183.0
+0,8,84086.0,46324.0,3500.0,2271955.0,1830398.0,appropriation_requirement_november_2024 (1).csv,528.0
+1,9,11822.0,5925.0,545.0,193853.0,138408.0,appropriation_requirement_november_2024 (1).csv,327.0
+2,2,7132.0,9483.0,255.0,79136.0,47175.0,appropriation_requirement_november_2024 (1).csv,348.0
+2,3,19892.0,7269.0,326.0,169727.0,101700.0,appropriation_requirement_november_2024 (1).csv,303.0
+2,4,13575.0,9820.0,1096.0,185831.0,138046.0,appropriation_requirement_november_2024 (1).csv,318.0
+2,5,40239.0,26896.0,4115.0,539303.0,329757.0,appropriation_requirement_november_2024 (1).csv,393.0
+2,6,1603.0,1491.0,214.0,57634.0,47229.0,appropriation_requirement_november_2024 (1).csv,642.0
+2,7,4971.0,6524.0,133.0,44859.0,19825.0,appropriation_requirement_november_2024 (1).csv,270.0
+3,10,9502.0,9215.0,356.0,212525.0,178161.0,appropriation_requirement_november_2024 (1).csv,657.0
+4,0,423242.0,369824.0,23880.0,1202301.0,525435.0,appropriation_requirement_november_2024 (1).csv,75.0
+5,1,85640.0,66293.0,5441.0,533709.0,111709.0,appropriation_requirement_november_2024 (1).csv,183.0
+0,8,87489.0,55884.0,7545.0,2235799.0,1815343.0,appropriation_requirement_october_2024 (1).csv,552.0
+1,9,14143.0,6824.0,676.0,188479.0,132489.0,appropriation_requirement_october_2024 (1).csv,333.0
+2,2,7530.0,10511.0,289.0,81775.0,50672.0,appropriation_requirement_october_2024 (1).csv,369.0
+2,3,17448.0,10807.0,299.0,157703.0,98392.0,appropriation_requirement_october_2024 (1).csv,267.0
+2,4,15236.0,12825.0,1588.0,183342.0,140655.0,appropriation_requirement_october_2024 (1).csv,336.0
+2,5,47689.0,30043.0,4959.0,529816.0,332336.0,appropriation_requirement_october_2024 (1).csv,399.0
+2,6,2356.0,2158.0,289.0,57651.0,46211.0,appropriation_requirement_october_2024 (1).csv,567.0
+2,7,5774.0,6015.0,125.0,46535.0,20790.0,appropriation_requirement_october_2024 (1).csv,318.0
+3,10,7825.0,11157.0,403.0,212468.0,181373.0,appropriation_requirement_october_2024 (1).csv,660.0
+4,0,428860.0,419971.0,29829.0,1178128.0,528789.0,appropriation_requirement_october_2024 (1).csv,90.0
+5,1,81118.0,72681.0,6087.0,521418.0,101964.0,appropriation_requirement_october_2024 (1).csv,180.0
+0,8,72830.0,76122.0,9902.0,2361576.0,1961328.0,appropriation_requirement_october_2025_v1.0 (2).csv,450.0
+1,9,12110.0,6437.0,778.0,237524.0,193835.0,appropriation_requirement_october_2025_v1.0 (2).csv,276.0
+2,2,4663.0,1999.0,138.0,100895.0,70257.0,appropriation_requirement_october_2025_v1.0 (2).csv,459.0
+2,3,9059.0,1954.0,186.0,323471.0,235832.0,appropriation_requirement_october_2025_v1.0 (2).csv,387.0
+2,4,27938.0,9171.0,822.0,190583.0,130885.0,appropriation_requirement_october_2025_v1.0 (2).csv,354.0
+2,5,37288.0,40594.0,4947.0,535564.0,367016.0,appropriation_requirement_october_2025_v1.0 (2).csv,258.0
+2,6,2217.0,2923.0,431.0,48756.0,43150.0,appropriation_requirement_october_2025_v1.0 (2).csv,675.0
+2,7,8926.0,2151.0,87.0,96569.0,48957.0,appropriation_requirement_october_2025_v1.0 (2).csv,258.0
+3,10,11928.0,10286.0,191.0,264972.0,193627.0,appropriation_requirement_october_2025_v1.0 (2).csv,627.0
+4,0,237428.0,233842.0,19939.0,1679166.0,1028964.0,appropriation_requirement_october_2025_v1.0 (2).csv,108.0
+5,1,169159.0,58692.0,6852.0,641468.0,130810.0,appropriation_requirement_october_2025_v1.0 (2).csv,201.0
+0,8,71568.0,86623.0,9461.0,2369937.0,1955348.0,appropriation_requirement_september 2025 (2).csv,429.0
+1,9,10518.0,6060.0,936.0,232676.0,188264.0,appropriation_requirement_september 2025 (2).csv,297.0
+2,2,4877.0,1911.0,84.0,98534.0,66416.0,appropriation_requirement_september 2025 (2).csv,432.0
+2,3,11152.0,3529.0,215.0,318763.0,212644.0,appropriation_requirement_september 2025 (2).csv,342.0
+2,4,5739.0,2662.0,980.0,172563.0,133820.0,appropriation_requirement_september 2025 (2).csv,423.0
+2,5,37819.0,48751.0,6771.0,543464.0,363697.0,appropriation_requirement_september 2025 (2).csv,264.0
+2,6,1650.0,3992.0,520.0,49759.0,44135.0,appropriation_requirement_september 2025 (2).csv,606.0
+2,7,8752.0,2294.0,78.0,89959.0,42899.0,appropriation_requirement_september 2025 (2).csv,276.0
+3,10,12073.0,9029.0,193.0,263656.0,190705.0,appropriation_requirement_september 2025 (2).csv,618.0
+4,0,225595.0,262688.0,22980.0,1698599.0,911946.0,appropriation_requirement_september 2025 (2).csv,111.0
+5,1,87903.0,71181.0,7198.0,537769.0,118313.0,appropriation_requirement_september 2025 (2).csv,201.0
+0,8,75544.0,57514.0,9000.0,2207387.0,1800711.0,appropriation_requirement_september_2024 (1).csv,525.0
+1,9,11899.0,6024.0,478.0,181482.0,127168.0,appropriation_requirement_september_2024 (1).csv,333.0
+2,2,5459.0,7693.0,247.0,84766.0,55326.0,appropriation_requirement_september_2024 (1).csv,405.0
+2,3,10833.0,13464.0,202.0,151425.0,97685.0,appropriation_requirement_september_2024 (1).csv,201.0
+2,4,6801.0,1637.0,1626.0,182313.0,144708.0,appropriation_requirement_september_2024 (1).csv,759.0
+2,5,38409.0,35648.0,5179.0,515925.0,333050.0,appropriation_requirement_september_2024 (1).csv,360.0
+2,6,1936.0,2142.0,303.0,57737.0,45220.0,appropriation_requirement_september_2024 (1).csv,453.0
+2,7,4486.0,3837.0,118.0,46700.0,22464.0,appropriation_requirement_september_2024 (1).csv,384.0
+3,10,5677.0,10487.0,426.0,216281.0,185432.0,appropriation_requirement_september_2024 (1).csv,684.0
+4,0,356947.0,411996.0,27490.0,1196046.0,546496.0,appropriation_requirement_september_2024 (1).csv,96.0
+5,1,88501.0,73159.0,5646.0,517125.0,96571.0,appropriation_requirement_september_2024 (1).csv,186.0
