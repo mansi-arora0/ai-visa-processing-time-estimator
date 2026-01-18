@@ -155,14 +155,6 @@ This dataset includes:
 
 ---
 
-## 🚀 Next Steps (Milestone 3)
-
-- Train ML models for processing time prediction  
-- Evaluate model performance  
-- Build prediction interface  
-
----
-
 ## 👩‍💻 Author
 
 **Mansi**  
