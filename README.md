@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on building an AI-based system to analyze and predict visa application processing times using publicly available immigration data.  
 The goal is to understand patterns in visa processing, identify key influencing factors, and develop predictive models for processing time estimation.
@@ -13,7 +13,7 @@ The dataset is sourced from monthly reports published by the **U.S. Citizenship 
 
 ---
 
-## 📂 Dataset Source
+## Dataset Source
 
 - **Source:** USCIS Immigration and Citizenship Data Library  
 - **Report Type:** Appropriations Reporting Requirement – Application Processing Data  
@@ -23,14 +23,14 @@ The dataset is sourced from monthly reports published by the **U.S. Citizenship 
 
 ---
 
-# ✅ Milestone 1: Data Collection & Preprocessing
+# Milestone 1: Data Collection & Preprocessing
 
-### 🎯 Objective  
+### Objective  
 Build a clean, structured, and machine-learning-ready dataset for visa processing time prediction.
 
 ---
 
-## 🛠️ Tasks Completed
+## Tasks Completed
 
 ### 1. Data Collection
 - Collected 23 monthly USCIS CSV files.
@@ -60,7 +60,7 @@ processing_time_days = avg_processing_time × 30
 
 ---
 
-## 📊 Final Dataset (Milestone 1)
+## Final Dataset (Milestone 1)
 
 **File Path:**  
 `data/processed/clean_uscis_processing_data.csv`
@@ -83,19 +83,19 @@ processing_time_days = avg_processing_time × 30
 
 ---
 
-## ✅ Milestone 1 Status  
+## Milestone 1 Status  
 **Completed Successfully**
 
 ---
 
-# 📊 Milestone 2: Exploratory Data Analysis & Feature Engineering
+# Milestone 2: Exploratory Data Analysis & Feature Engineering
 
 ### 🎯 Objective  
 Analyze the dataset, identify patterns, visualize trends, and engineer new features to improve model performance.
 
 ---
 
-## 🛠️ Tasks Completed
+## Tasks Completed
 
 ### 1. Exploratory Data Analysis (EDA)
 
@@ -138,7 +138,7 @@ New features were created to enhance predictive power:
 
 ---
 
-## 📁 Milestone 2 Output
+## Milestone 2 Output
 
 **File Path:**  
 `data/processed/eda_featured_data.csv`
@@ -150,7 +150,7 @@ This dataset includes:
 
 ---
 
-## ✅ Milestone 2 Status  
+## Milestone 2 Status  
 **Completed Successfully**
 
 ---
