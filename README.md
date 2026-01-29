@@ -1,13 +1,18 @@
 # AI-Enabled Visa Status Prediction & Processing Time Estimator  
-
-## Milestone 1 & Milestone 2 Progress
-
 ---
 
 ## Project Overview
 
-This project focuses on building an AI-based system to analyze and predict visa application processing times using publicly available immigration data.  
-The goal is to understand patterns in visa processing, identify key influencing factors, and develop predictive models for processing time estimation.
+This project builds an end-to-end machine learning pipeline to analyze and predict visa application processing times using real-world public immigration data.
+
+The system performs:
+
+- Data ingestion from government CSV reports  
+- Data preprocessing and feature engineering  
+- Exploratory Data Analysis (EDA) with visual insights  
+- Regression modeling to predict processing time  
+- Model evaluation and selection  
+- Saving trained models for future deployment  
 
 The dataset is sourced from monthly reports published by the **U.S. Citizenship and Immigration Services (USCIS)** under the Appropriations Reporting Requirement.
 
@@ -26,140 +31,209 @@ The dataset is sourced from monthly reports published by the **U.S. Citizenship 
 # Milestone 1: Data Collection & Preprocessing
 
 ### Objective  
-Build a clean, structured, and machine-learning-ready dataset for visa processing time prediction.
+Build a clean, structured, machine-learning-ready dataset.
 
 ---
 
 ## Tasks Completed
 
-### 1. Data Collection
+### Data Collection
 - Collected 23 monthly USCIS CSV files.
-- Data includes multiple visa forms such as I-130, I-485, I-765, N-400, etc.
+- Includes multiple visa forms (I-130, I-485, I-765, N-400, etc.).
 
-### 2. Data Cleaning & Preprocessing
-- Removed report headers, metadata, and notes.
+### Data Cleaning & Preprocessing
+- Removed report headers and notes.
 - Standardized column names.
-- Cleaned numeric fields containing commas.
-- Merged all monthly CSV files into a single dataset.
-- Added a `source_file` column to retain month/year context.
+- Cleaned numeric fields.
+- Merged all monthly CSVs into one dataset.
+- Added `source_file` for month/year traceability.
 
-### 3. Target Variable Creation
-- USCIS reports average processing time in months.
-- Converted processing time to days using:
-  
+### Target Variable Creation
+
+USCIS reports processing time in months.  
+Converted to days:
+
 processing_time_days = avg_processing_time × 30
 
 
-### 4. Missing Value Handling
-- Dropped rows with missing target values.
-- Filled missing categorical values where required.
-- Final dataset contains zero missing values.
+### Missing Value Handling
+- Dropped rows with missing targets.
+- Filled categorical missing values.
+- Final dataset contains **zero missing values**.
 
-### 5. Categorical Encoding
-- Encoded categorical variables (`form_number`, `description`) using Label Encoding for machine learning compatibility.
+### Categorical Encoding
+- Encoded `form_number` and `description` using Label Encoding.
 
 ---
 
-## Final Dataset (Milestone 1)
+## Milestone 1 Output
 
-**File Path:**  
+**File:**  
 `data/processed/clean_uscis_processing_data.csv`
 
 **Dataset Shape:**  
 - Rows: 556  
 - Columns: 9  
 
-| Column Name | Description |
-|------------|------------|
-| form_number | Encoded visa form type |
-| description | Encoded application description |
-| forms_received | Number of applications received |
-| approvals | Number of approved applications |
-| denials | Number of denied applications |
-| pending | Total pending applications |
-| pending_over_6_months | Applications pending over six months |
-| processing_time_days | Target variable (processing time in days) |
-| source_file | Original monthly CSV file name |
-
 ---
 
 ## Milestone 1 Status  
-**Completed Successfully**
+  Completed Successfully
 
 ---
 
 # Milestone 2: Exploratory Data Analysis & Feature Engineering
 
 ### 🎯 Objective  
-Analyze the dataset, identify patterns, visualize trends, and engineer new features to improve model performance.
+Analyze patterns, visualize trends, and engineer predictive features.
 
 ---
 
-## Tasks Completed
+## EDA Performed
 
-### 1. Exploratory Data Analysis (EDA)
+Visualizations created:
 
-- Visualized distribution of visa processing times  
-- Analyzed relationship between pending cases and processing time  
-- Generated correlation heatmap for all numeric features  
+- Processing Time Distribution  
+- Pending vs Processing Time  
+- Feature Correlation Heatmap  
 
-**Visualizations Created:**
-- Processing Time Distribution
-- Pending vs Processing Time Scatter Plot
-- Feature Correlation Heatmap
+Saved under:
 
-**Saved in:**  
-`outputs/plots/`
+outputs/plots/
 
 ---
 
-### 2. Key Insights
+## Key Insights
 
-- Processing times vary significantly across different visa forms  
-- Higher pending case volume does **not always** mean longer processing time  
-- Strong correlations exist between:
-- Forms received & approvals  
-- Pending & pending over 6 months  
-- Processing time shows moderate correlation with application type (description)
+- Processing times vary significantly across visa types.
+- Pending volume alone does not always imply longer processing.
+- Strong correlations observed between:
+  - Forms received ↔ approvals  
+  - Pending ↔ pending over 6 months  
+- Processing time moderately correlates with application type.
 
 ---
 
-### 3. Feature Engineering
+## Feature Engineering
 
-New features were created to enhance predictive power:
+Additional features created:
 
 | Feature | Description |
 |--------|-------------|
-| month | Extracted month from source file |
-| year | Extracted year from source file |
-| seasonal_index | Average processing time per month |
-| form_avg_processing_time | Average processing time per form type |
+| month | Extracted from source file |
+| year | Extracted from source file |
+| seasonal_index | Avg processing time per month |
+| form_avg_processing_time | Avg per visa form |
 | backlog_ratio | pending / forms_received |
 
 ---
 
 ## Milestone 2 Output
 
-**File Path:**  
+**File:**  
 `data/processed/eda_featured_data.csv`
 
-This dataset includes:
-- Original cleaned features  
-- Newly engineered features  
-- Ready for ML modeling  
+Includes original + engineered features.
 
 ---
 
 ## Milestone 2 Status  
-**Completed Successfully**
+Completed Successfully
 
 ---
 
-## 👩‍💻 Author
+# Milestone 3: Predictive Modeling
+
+### 🎯 Objective  
+Train regression models to predict visa processing time and select the best model.
+
+---
+
+## Models Implemented
+
+- Linear Regression (baseline)
+- Ridge Regression
+- Random Forest Regressor
+
+---
+
+## Evaluation Metrics Used
+
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- R² Score
+
+---
+
+## Model Performance (Best Model: Random Forest)
+
+- **MAE:** ~29 days  
+- **RMSE:** ~61 days  
+- **R² Score:** ~0.91  
+
+Random Forest significantly outperformed linear models.
+
+---
+
+## Feature Importance (Top Contributors)
+
+- Backlog Ratio  
+- Form Average Processing Time  
+- Forms Received  
+- Description  
+- Approvals  
+
+This shows backlog and historical form behavior are strong predictors.
+
+---
+
+## Visualizations Created
+
+Saved under:
+
+outputs/model_plots/
+
+
+- Feature Importance Plot  
+- Actual vs Predicted Processing Time  
+- Model Comparison Chart  
+
+---
+
+## Model Saving
+
+Best performing model saved as:
+
+models/best_model.pkl
+
+
+Ready for deployment or API integration.
+
+---
+
+## Milestone 3 Status  
+Completed Successfully
+
+---
+
+# Next Steps (Planned)
+
+- Build Flask/FastAPI inference API  
+- Create simple frontend UI  
+- Add model versioning  
+- Deployment (Render / HuggingFace / Streamlit)  
+
+---
+
+## Author
 
 **Mansi**  
-Infosys Springboard Internship
+Infosys Springboard Internship  
 Project: *AI-Enabled Visa Status Prediction and Processing Time Estimator*
+
+---
+
+
 
 
 
